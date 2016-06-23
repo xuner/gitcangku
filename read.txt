@@ -1,4 +1,4 @@
 GIT is a version control system
 git is a free tool
 git has a mutable index called stage
-git tracks change of files
+git tracks  xingg of files
