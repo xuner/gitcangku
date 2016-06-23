@@ -1,2 +1,2 @@
-is a version control system
-is a diestributed version
+GIT is a version control system
+git is a free tool
